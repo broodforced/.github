@@ -1,0 +1,5 @@
+# Profile repo holds ONLY the org README and assets. Never the sibling project checkouts.
+/cicada/
+/tymbal/
+.DS_Store
+*.swp
